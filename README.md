@@ -1,9 +1,14 @@
 # Online Education Platform
 ## Zhasmira Mamyrbayeva, Aidana Muratova
 ## SE-2539
-An application for an online learning platform: instructors build courses and
-publish assignments, students enroll with paid add-ons, submit work, get graded, receive
-notifications and course recommendations.
+## Introduction
+## Introduction
+Online Education Platform is a Java application designed to simplify and improve the online learning experience. 
+The platform allows students to explore courses, enroll in classes, complete assignments, and track their learning progress. 
+It also provides course recommendations based on students' interests, levels, budgets, and course popularity. 
+The project implements six design patterns: Builder, Factory Method, Facade, Strategy, Decorator, and Observer. 
+These patterns help make the application more flexible, organized, maintainable, and easy to extend. 
+The main goal of this project is to demonstrate how design patterns can be applied to develop a practical and well-structured educational system.
 
 The project integrates 6 design patterns:
 
